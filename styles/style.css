@@ -1,0 +1,158 @@
+header {
+  background-color: #52503b;
+  height: 70px;
+  width: 100%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+#sec2,
+#sec5,
+#sec7,
+#sec9 {
+  background-color: #faf8f0;
+}
+
+#menu {
+  text-align: center;
+}
+
+a {
+  margin: 12px;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+#sec1 {
+  background-image: url(/assets/image/1section.png);
+  background-size: 100%;
+  height: 100vh;
+  color: #ffffff;
+}
+
+#logos {
+  height: 90px;
+  width: 256px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#h2 {
+  font-size: 48px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#p1 {
+  text-align: center;
+}
+
+#sec2 {
+  height: 410px;
+  width: 100%;
+}
+
+#pr {
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 96px;
+  text-align: center;
+}
+
+#sec3 {
+  font-size: 96px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 568px;
+  width: 100%;
+  color: #52503b;
+  align-content: center;
+}
+.rectangle {
+  width: 42px;
+  height: 8px;
+  background: #e08631;
+}
+
+#sec4 {
+  height: 100%;
+  width: 100%;
+}
+
+#ph1 {
+  height: 100%;
+  width: 100%;
+}
+
+.p {
+  font-size: 14px;
+}
+
+.button {
+  height: 42px;
+  width: 107px;
+  border-radius: 6px;
+  background-color: #52503b;
+  color: #ffffff;
+}
+
+.button2 {
+  height: 42px;
+  width: 107px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #52503b;
+  position: absolute;
+  top: 9px;
+  right: 114px;
+}
+
+button:hover {
+  background-color: #e08631;
+}
+
+a:hover {
+  font-size: 30px;
+  color: #e18a3a;
+}
+
+a:visited {
+  font-style: italic;
+}
+
+#footer {
+  background-color: #52503b;
+  height: 608px;
+  width: 100%;
+  color: #ffffff;
+}
+
+#e-mail {
+  height: 52px;
+  width: 576px;
+  border-radius: 8px;
+  margin: 20px;
+}
+#sec9 {
+  height: 478px;
+  width: 100%;
+  left: 0px;
+  top: 5282px;
+  border-radius: 0px;
+}
+
+#logos2 {
+  height: 70px;
+  width: 200px;
+}
+
+#room {
+  width: 100%;
+}
