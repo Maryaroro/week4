@@ -1,0 +1,156 @@
+.header-box {
+  display: flex;
+  height: 120px;
+  background-color: #4a2b33;
+  justify-content: space-between;
+  align-items: center;
+}
+.top-nav {
+  font-family: "inter", sans-serif, Arial;
+  font-size: 15px;
+  color: #d27487;
+  text-decoration: none;
+  padding: 15px;
+}
+.name {
+  font-family: "inter", sans-serif, Arial;
+  font-size: 50px;
+  color: #d27487;
+  margin-right: 150px;
+}
+.contact {
+  padding: 20px;
+}
+.photo1 {
+  display: flex;
+  justify-content: center;
+  background-color: #4a2b33;
+  height: 680px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+}
+.topic {
+  font-family: "Azeret Mono", sans-serif, arial;
+  font-size: 17px;
+  text-align: center;
+}
+.text {
+  font-family: "inter", sans-serif, Arial;
+  font-size: 32px;
+  font-style: italic;
+  text-align: center;
+  width: 800px;
+}
+.food-menu {
+  display: flex;
+  background-color: #e9e9e3;
+  height: 1300px;
+  justify-content: space-around;
+  align-items: center;
+}
+.menu-options {
+  display: flex;
+  flex-direction: column;
+  color: #6f6f64;
+  align-self: flex-start;
+  padding: 100px;
+}
+.topic-two {
+  font-family: "Azeret Mono", sans-serif, arial;
+  font-size: 18px;
+  text-align: center;
+}
+.about-menu {
+  font-family: "inter", sans-serif, Arial;
+  font-size: 32px;
+  text-align: center;
+  width: 500px;
+}
+.menu-variety {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+.variety {
+  margin: 20px 20px 20px 20px;
+  height: 42px;
+  width: 500px;
+  background-color: #6f6f64;
+  font-family: "inter", sans-serif, Arial;
+  font-size: 16px;
+  color: #6f6f64;
+  border-color: #6f6f64;
+  background-color: #e9e9e3;
+}
+.food {
+  color: #e9e9e3;
+  background-color: #6f6f64;
+}
+.location-hour {
+  display: flex;
+  height: 480px;
+  background-color: #aa9e54;
+  justify-content: space-around;
+  align-items: center;
+}
+.location-box {
+  color: #ffffff;
+  font-family: "inter", sans-serif, Arial;
+  font-size: 26px;
+  text-align: center;
+  width: 230px;
+}
+.topic-three {
+  color: #ffffff;
+  font-family: "Azeret Mono", sans-serif, arial;
+  font-size: 18px;
+  text-align: center;
+}
+.photo-cafe {
+  display: flex;
+  height: 900px;
+  align-items: center;
+}
+.kitchen-photo {
+  margin-left: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.hall-photo {
+  margin-right: 70px;
+}
+.about-cafe {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #4a2b33;
+  color: #d27487;
+  font-family: "Azeret Mono", sans-serif, arial;
+}
+.topic-four {
+  width: 450px;
+  font-size: 50px;
+}
+.topic-five {
+  width: 600px;
+  font-size: 17px;
+}
+.footer-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "inter", sans-serif, Arial;
+  font-size: 16px;
+  height: 150px;
+}
+.nav-footer {
+  text-decoration: none;
+  color: #000000;
+  padding: 20px 20px 20px 20px;
+}
